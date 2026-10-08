@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-10-04T15:53:44",
+  "generated_at": "2026-10-08T14:34:08",
   "vehicle_count": 112,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "4T1CA30P54U002930",
       "stock": "NUMBER",
       "color": "Beige",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/714b9f8d86e9.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2004-Toyota-Camry-id14419269.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2004-Toyota-Camry-id14419269.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,8 +20,10 @@
       "odometer_km": 124977,
       "year": 2004,
       "make": "Toyota",
-      "model": "Camry SLEin Courtenay",
-      "condition": "used"
+      "model": "Camry",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2004 Toyota Camry ",
@@ -36,13 +39,16 @@
       "year": 2004,
       "make": "Toyota",
       "model": "Camry",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2007 Hyundai Santa Fe Gl 5passin Courtenay",
       "vin": "5NMSG13E07H018610",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Gl 5passin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/7b28a2bffce0.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2007-Hyundai-Santa_Fe-id14447602.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2007-Hyundai-Santa_Fe-id14447602.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -52,8 +58,10 @@
       "odometer_km": 292514,
       "year": 2007,
       "make": "Hyundai",
-      "model": "Santa Fe Gl 5passin Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2007 Hyundai Santa Fe ",
@@ -69,7 +77,9 @@
       "year": 2007,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2009 Toyota Matrix AWDin Courtenay",
@@ -85,7 +95,9 @@
       "year": 2009,
       "make": "Toyota",
       "model": "Matrix AWDin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2009 Toyota Matrix ",
@@ -100,12 +112,15 @@
       "year": 2009,
       "make": "Toyota",
       "model": "Matrix",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Golf Wagon Comfortlinein Courtenay",
       "vin": "3VWML7AJ3BM692597",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/0b3735e70c17.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2011-Volkswagen-Golf_Wagon-id14236499.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2011-Volkswagen-Golf_Wagon-id14236499.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -115,8 +130,10 @@
       "odometer_km": 176356,
       "year": 2011,
       "make": "Volkswagen",
-      "model": "Golf Wagon Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Golf",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2011 Volkswagen Golf Wagon ",
@@ -131,12 +148,15 @@
       "year": 2011,
       "make": "Volkswagen",
       "model": "Golf Wagon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Jeep Compass Sportin Courtenay",
       "vin": "1C4NJDAB5CD702452",
       "stock": "NUMBER",
+      "trim": "Sportin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a117e68450a0.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2012-Jeep-Compass-id14333598.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2012-Jeep-Compass-id14333598.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -146,8 +166,10 @@
       "odometer_km": 132165,
       "year": 2012,
       "make": "Jeep",
-      "model": "Compass Sportin Courtenay",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2012 Jeep Compass ",
@@ -162,12 +184,15 @@
       "year": 2012,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Hyundai Elantra GT GLSin Courtenay",
       "vin": "KMHD35LE2DU042676",
       "stock": "NUMBER",
+      "trim": "GT GLSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/cb653fc813c9.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2013-Hyundai-Elantra_GT-id14447601.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2013-Hyundai-Elantra_GT-id14447601.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -177,13 +202,16 @@
       "odometer_km": 165147,
       "year": 2013,
       "make": "Hyundai",
-      "model": "Elantra GT GLSin Courtenay",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Hyundai Elantra GT ",
       "vin": "KMHD35LE2DU042676",
       "stock": 14447601,
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/ad81f617cf1c.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2013-Hyundai-Elantra_GT.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2013-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -192,13 +220,16 @@
       "price_currency": "CAD",
       "year": 2013,
       "make": "Hyundai",
-      "model": "Elantra GT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Kia Forte Koup SXin Courtenay",
       "vin": "KNAFW6A37D5731793",
       "stock": "NUMBER",
+      "trim": "Koup SXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/e6319f37ed39.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2013-Kia-Forte_Koup-id14279049.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2013-Kia-Forte_Koup-id14279049.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -208,13 +239,16 @@
       "odometer_km": 197942,
       "year": 2013,
       "make": "Kia",
-      "model": "Forte Koup SXin Courtenay",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2013 Kia Forte Koup ",
       "vin": "KNAFW6A37D5731793",
       "stock": 14279049,
+      "trim": "Koup",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a40ac8ed3714.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2013-Kia-Forte_Koup.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2013-Kia-Forte_Koup.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,13 +257,16 @@
       "price_currency": "CAD",
       "year": 2013,
       "make": "Kia",
-      "model": "Forte Koup",
-      "condition": "used"
+      "model": "Forte",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 1500 SLEin Courtenay",
       "vin": "3GTU2UEC2FG245473",
       "stock": "NUMBER",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/6f1def1cad3e.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2015-GMC-Sierra_1500-id14279051.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2015-GMC-Sierra_1500-id14279051.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -239,8 +276,10 @@
       "odometer_km": 180135,
       "year": 2015,
       "make": "GMC",
-      "model": "Sierra 1500 SLEin Courtenay",
-      "condition": "used"
+      "model": "Sierra 1500",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 GMC Sierra 1500 ",
@@ -255,7 +294,9 @@
       "year": 2015,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Lincoln MKC Basein Courtenay",
@@ -271,7 +312,9 @@
       "year": 2015,
       "make": "Lincoln",
       "model": "MKC Basein Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Lincoln MKC ",
@@ -286,12 +329,15 @@
       "year": 2015,
       "make": "Lincoln",
       "model": "MKC",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Micra SVin Courtenay",
       "vin": "3N1CK3CP3FL263258",
       "stock": "NUMBER",
+      "trim": "SVin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/3da77a818f56.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2015-Nissan-Micra-id13990451.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2015-Nissan-Micra-id13990451.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -301,8 +347,10 @@
       "odometer_km": 145557,
       "year": 2015,
       "make": "Nissan",
-      "model": "Micra SVin Courtenay",
-      "condition": "used"
+      "model": "Micra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2015 Nissan Micra ",
@@ -317,12 +365,15 @@
       "year": 2015,
       "make": "Nissan",
       "model": "Micra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester I Conveniencein Courtenay",
       "vin": "JF2SJCCC0GH528549",
       "stock": "NUMBER",
+      "trim": "I Conveniencein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/f0f1aca97511.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2016-Subaru-Forester-id13862408.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2016-Subaru-Forester-id13862408.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -332,8 +383,10 @@
       "odometer_km": 219890,
       "year": 2016,
       "make": "Subaru",
-      "model": "Forester I Conveniencein Courtenay",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2016 Subaru Forester ",
@@ -348,12 +401,15 @@
       "year": 2016,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox LSin Courtenay",
       "vin": "2GNFLEEK7H6338496",
       "stock": "NUMBER",
+      "trim": "LSin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/e494c3b0643c.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Chevrolet-Equinox-id13958684.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Chevrolet-Equinox-id13958684.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -363,8 +419,10 @@
       "odometer_km": 153753,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Equinox LSin Courtenay",
-      "condition": "used"
+      "model": "Equinox",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Equinox ",
@@ -379,12 +437,15 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape SEin Courtenay",
       "vin": "1FMCU9GD6HUE60696",
       "stock": "NUMBER",
+      "trim": "SEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/f0566f3c7d60.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Ford-Escape-id14327242.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Ford-Escape-id14327242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -394,8 +455,10 @@
       "odometer_km": 118824,
       "year": 2017,
       "make": "Ford",
-      "model": "Escape SEin Courtenay",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Ford Escape ",
@@ -410,12 +473,15 @@
       "year": 2017,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport Ultimatein Courtenay",
       "vin": "5XYZUDLA5HG496460",
       "stock": "NUMBER",
+      "trim": "Sport Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/31f2b947afa5.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14297458.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_Sport-id14297458.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -425,13 +491,16 @@
       "odometer_km": 99051,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Ultimatein Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport ",
       "vin": "5XYZUDLA5HG496460",
       "stock": 14297458,
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/7eb508ffe403.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -440,14 +509,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe XL Limitedin Courtenay",
       "vin": "KM8SNDHF6HU181390",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "XL Limitedin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/38c6584491d5.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_XL-id14438032.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_XL-id14438032.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -457,14 +529,17 @@
       "odometer_km": 114196,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe XL Limitedin Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe XL ",
       "vin": "KM8SNDHF6HU181390",
       "stock": 14438032,
       "color": "Red",
+      "trim": "XL",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5c55c057276c.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_XL.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Hyundai-Santa_Fe_XL.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -473,14 +548,17 @@
       "price_currency": "CAD",
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe XL",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler Saharain Courtenay",
       "vin": "1C4BJWEG2HL695283",
       "stock": "NUMBER",
       "color": "Charcoal",
+      "trim": "Saharain Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/7bcaa49d858f.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2017-Jeep-Wrangler-id14297455.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2017-Jeep-Wrangler-id14297455.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -490,8 +568,10 @@
       "odometer_km": 89537,
       "year": 2017,
       "make": "Jeep",
-      "model": "Wrangler Saharain Courtenay",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Jeep Wrangler ",
@@ -507,7 +587,9 @@
       "year": 2017,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2017 Mazda3 GXin Courtenay",
@@ -523,12 +605,15 @@
       "year": 2017,
       "make": "Mazda3",
       "model": "GXin Courtenay",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport Basein Courtenay",
       "vin": "5XYZTDLB1JG557059",
       "stock": "NUMBER",
+      "trim": "Sport Basein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/b09785d023f9.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14279052.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2018-Hyundai-Santa_Fe_Sport-id14279052.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -538,13 +623,16 @@
       "odometer_km": 179487,
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport Basein Courtenay",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Hyundai Santa Fe Sport ",
       "vin": "5XYZTDLB1JG557059",
       "stock": 14279052,
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/da1b7e857f40.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2018-Hyundai-Santa_Fe_Sport.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -553,13 +641,16 @@
       "price_currency": "CAD",
       "year": 2018,
       "make": "Hyundai",
-      "model": "Santa Fe Sport",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage LXin Courtenay",
       "vin": "KNDPMCAC2J7323164",
       "stock": "NUMBER",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a33f9d3698e0.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2018-Kia-Sportage-id14247868.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2018-Kia-Sportage-id14247868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -569,13 +660,16 @@
       "odometer_km": 162453,
       "year": 2018,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage LXin Courtenay",
       "vin": "KNDPM3AC9J7407630",
       "stock": "NUMBER",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/11a3e0fe3f7e.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2018-Kia-Sportage-id14327238.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2018-Kia-Sportage-id14327238.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -585,8 +679,10 @@
       "odometer_km": 41632,
       "year": 2018,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Kia Sportage ",
@@ -601,12 +697,15 @@
       "year": 2018,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan Comfortlinein Courtenay",
       "vin": "3VV2B7AX2JM222286",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/be197c08c4cf.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2018-Volkswagen-Tiguan-id13337799.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2018-Volkswagen-Tiguan-id13337799.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -616,8 +715,10 @@
       "odometer_km": 123298,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -632,12 +733,15 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass Altitudein Courtenay",
       "vin": "3C4NJDBB0KT597861",
       "stock": "NUMBER",
+      "trim": "Altitudein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/c8e9b6621a82.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2019-Jeep-Compass-id14364725.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2019-Jeep-Compass-id14364725.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -647,8 +751,10 @@
       "odometer_km": 106853,
       "year": 2019,
       "make": "Jeep",
-      "model": "Compass Altitudein Courtenay",
-      "condition": "used"
+      "model": "Compass",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Jeep Compass ",
@@ -663,12 +769,15 @@
       "year": 2019,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage LXin Courtenay",
       "vin": "KNDPMCAC3K7519728",
       "stock": "NUMBER",
+      "trim": "LXin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/f2de766ecc87.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2019-Kia-Sportage-id14297457.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2019-Kia-Sportage-id14297457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -678,8 +787,10 @@
       "odometer_km": 51360,
       "year": 2019,
       "make": "Kia",
-      "model": "Sportage LXin Courtenay",
-      "condition": "used"
+      "model": "Sportage",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sportage ",
@@ -694,12 +805,15 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester Limitedin Courtenay",
       "vin": "JF2SKEUC2KH501398",
       "stock": "NUMBER",
+      "trim": "Limitedin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/94132aaeb579.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2019-Subaru-Forester-id14255273.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2019-Subaru-Forester-id14255273.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -709,8 +823,10 @@
       "odometer_km": 74149,
       "year": 2019,
       "make": "Subaru",
-      "model": "Forester Limitedin Courtenay",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2019 Subaru Forester ",
@@ -725,13 +841,16 @@
       "year": 2019,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT Preferredin Courtenay",
       "vin": "KMHH35LE5LU135014",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "GT Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/56ca7c9f22be.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2020-Hyundai-Elantra_GT-id14364728.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2020-Hyundai-Elantra_GT-id14364728.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -741,14 +860,17 @@
       "odometer_km": 45345,
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT Preferredin Courtenay",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Elantra GT ",
       "vin": "KMHH35LE5LU135014",
       "stock": 14364728,
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/8be2e92c284c.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2020-Hyundai-Elantra_GT.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2020-Hyundai-Elantra_GT.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -757,13 +879,16 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Hyundai",
-      "model": "Elantra GT",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon SLTin Courtenay",
       "vin": "1GKS2BKD6MR144883",
       "stock": "NUMBER",
+      "trim": "SLTin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/811ba3bd2828.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2021-GMC-Yukon-id14261123.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2021-GMC-Yukon-id14261123.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -773,8 +898,10 @@
       "odometer_km": 153741,
       "year": 2021,
       "make": "GMC",
-      "model": "Yukon SLTin Courtenay",
-      "condition": "used"
+      "model": "Yukon",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2021 GMC Yukon ",
@@ -789,12 +916,15 @@
       "year": 2021,
       "make": "GMC",
       "model": "Yukon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain SLEin Courtenay",
       "vin": "3GKALTEV6NL292205",
       "stock": "NUMBER",
+      "trim": "SLEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/aa6d25bc25f5.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2022-GMC-Terrain-id14128724.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2022-GMC-Terrain-id14128724.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -804,8 +934,10 @@
       "odometer_km": 27646,
       "year": 2022,
       "make": "GMC",
-      "model": "Terrain SLEin Courtenay",
-      "condition": "used"
+      "model": "Terrain",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Terrain ",
@@ -820,12 +952,15 @@
       "year": 2022,
       "make": "GMC",
       "model": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra Luxuryin Courtenay",
       "vin": "KMHLN4AG6PU610470",
       "stock": "NUMBER",
+      "trim": "Luxuryin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/6b655840a264.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2023-Hyundai-Elantra-id14447600.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2023-Hyundai-Elantra-id14447600.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,8 +970,10 @@
       "odometer_km": 19546,
       "year": 2023,
       "make": "Hyundai",
-      "model": "Elantra Luxuryin Courtenay",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Elantra ",
@@ -851,12 +988,15 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Outer Banksin Courtenay",
       "vin": "3FMCR9C68RRE50477",
       "stock": "NUMBER",
+      "trim": "Outer Banksin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/7061a137bf6d.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2024-Ford-Bronco_Sport-id14165744.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2024-Ford-Bronco_Sport-id14165744.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -866,13 +1006,16 @@
       "odometer_km": 48054,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banksin Courtenay",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport Outer Banksin Courtenay",
       "vin": "3FMCR9C68RRE50477",
       "stock": "NUMBER",
+      "trim": "Outer Banksin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/981a248f8611.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2024-Ford-Bronco_Sport-id14165744.html?show_video=1",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2024-Ford-Bronco_Sport-id14165744.html?show_video=1&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -882,8 +1025,10 @@
       "odometer_km": 48054,
       "year": 2024,
       "make": "Ford",
-      "model": "Bronco Sport Outer Banksin Courtenay",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -898,12 +1043,15 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 Basein Courtenay",
       "vin": "WA1AUCF36S1075823",
       "stock": "NUMBER",
+      "trim": "Basein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/fe793261a7df.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Audi-Q3-id14261122.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Audi-Q3-id14261122.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -913,8 +1061,10 @@
       "odometer_km": 39944,
       "year": 2025,
       "make": "Audi",
-      "model": "Q3 Basein Courtenay",
-      "condition": "used"
+      "model": "Q3",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 ",
@@ -929,12 +1079,15 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape Platinumin Courtenay",
       "vin": "1FMCU9JA8SUA60662",
       "stock": "NUMBER",
+      "trim": "Platinumin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/b2313dc997fd.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Ford-Escape-id14279045.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Ford-Escape-id14279045.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -944,8 +1097,10 @@
       "odometer_km": 69987,
       "year": 2025,
       "make": "Ford",
-      "model": "Escape Platinumin Courtenay",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Escape ",
@@ -960,7 +1115,9 @@
       "year": 2025,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Ford F-150 ",
@@ -975,13 +1132,16 @@
       "year": 2025,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona Preferredin Courtenay",
       "vin": "KM8HCCAB6SU330258",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/063e567c793a.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Hyundai-Kona-id14419268.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Hyundai-Kona-id14419268.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -991,8 +1151,10 @@
       "odometer_km": 35592,
       "year": 2025,
       "make": "Hyundai",
-      "model": "Kona Preferredin Courtenay",
-      "condition": "used"
+      "model": "Kona",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Kona ",
@@ -1008,7 +1170,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-70 MHEV ",
@@ -1024,12 +1188,15 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-70 MHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue Midnight Editionin Courtenay",
       "vin": "JN8BT3BB0SW164451",
       "stock": "NUMBER",
+      "trim": "Midnight Editionin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/eb4fafc81051.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Nissan-Rogue-id13916652.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Nissan-Rogue-id13916652.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,8 +1206,10 @@
       "odometer_km": 41509,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue Midnight Editionin Courtenay",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue ",
@@ -1055,12 +1224,15 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 LEin Courtenay",
       "vin": "2T3B1RFV3SC511490",
       "stock": "NUMBER",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/6c336d93998e.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Toyota-RAV4-id14297456.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Toyota-RAV4-id14297456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1070,13 +1242,16 @@
       "odometer_km": 65931,
       "year": 2025,
       "make": "Toyota",
-      "model": "RAV4 LEin Courtenay",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 LEin Courtenay",
       "vin": "2T3B1RFV8SC525787",
       "stock": "NUMBER",
+      "trim": "LEin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/e870e5e9b6d4.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Toyota-RAV4-id14453708.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Toyota-RAV4-id14453708.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1086,8 +1261,10 @@
       "odometer_km": 33762,
       "year": 2025,
       "make": "Toyota",
-      "model": "RAV4 LEin Courtenay",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1102,12 +1279,15 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Courtenay",
       "vin": "3VVUC7B26SM045445",
       "stock": "NUMBER",
+      "trim": "Comfortlinein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/330608e6b81b.html",
       "source_url": "https://www.comoxvalleyhyundai.com/used/2025-Volkswagen-Taos-id14279054.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/used/2025-Volkswagen-Taos-id14279054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1117,8 +1297,10 @@
       "odometer_km": 29186,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Courtenay",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1133,12 +1315,15 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 5in Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "5in Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/e7012d694dfd.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-IONIQ_5.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-IONIQ_5.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1147,8 +1332,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "IONIQ 5in Courtenay",
-      "condition": "new"
+      "model": "IONIQ",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona ",
@@ -1163,12 +1350,15 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona Electricin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Electricin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/22ecb2a8439f.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Kona_Electric.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Kona_Electric.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1177,8 +1367,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona Electricin Courtenay",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade ",
@@ -1193,7 +1385,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid ",
@@ -1208,12 +1402,15 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Sonata Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/e35c9723fc67.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Sonata_Hybrid.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Sonata_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1222,8 +1419,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Sonata Hybridin Courtenay",
-      "condition": "new"
+      "model": "Sonata",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -1238,7 +1437,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid ",
@@ -1254,12 +1455,15 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Plug-In Hybridin Courtenay",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/1ceddc024925.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Tucson_Plug_In_Hybrid.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/2026-Hyundai-Tucson_Plug_In_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1268,8 +1472,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Plug-In Hybridin Courtenay",
-      "condition": "new"
+      "model": "Tucson Plug-In",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue ",
@@ -1285,12 +1491,15 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N Linein Courtenay",
       "vin": "KM8HACA38TU439935",
       "stock": "NUMBER",
+      "trim": "N Linein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/272493642341.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Kona-id13534963.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Kona-id13534963.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1299,13 +1508,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N Linein Courtenay",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Kona N Linein Courtenay",
       "vin": "KM8HACA32TU447867",
       "stock": "NUMBER",
+      "trim": "N Linein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/2374186be37b.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Kona-id13594623.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Kona-id13594623.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1314,13 +1526,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Kona N Linein Courtenay",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Ultimate Calligraphyin Courtenay",
       "vin": "KM8RMES21TU135066",
       "stock": "NUMBER",
+      "trim": "Ultimate Calligraphyin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/aa980efee8ba.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Palisade-id14071693.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Palisade-id14071693.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1329,13 +1544,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Palisade Ultimate Calligraphyin Courtenay",
-      "condition": "new"
+      "model": "Palisade",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
       "vin": "KM8P5DG1XTU164354",
       "stock": "NUMBER",
+      "trim": "Ultimate Calligraphyin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/7b7fed9bb6f1.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13227570.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13227570.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1344,13 +1562,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
       "vin": "KM8P5DG16TU184942",
       "stock": "NUMBER",
+      "trim": "Ultimate Calligraphyin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/a801a0bf3c0e.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13757718.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13757718.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1359,13 +1580,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Santa Fe Hybrid Luxuryin Courtenay",
       "vin": "KM8P3DG11TU187883",
       "stock": "NUMBER",
+      "trim": "Luxuryin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/c245b54f0603.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13770442.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Santa_Fe_Hybrid-id13770442.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1374,13 +1598,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Luxuryin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin Courtenay",
       "vin": "3KMJCCDE1TE036176",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/84f1fa4adc64.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id13692964.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id13692964.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1389,13 +1616,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin Courtenay",
       "vin": "3KMJCCDE1TE035772",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/e58691f54d1b.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14005270.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14005270.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1404,13 +1634,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin Courtenay",
       "vin": "KM8JBCDE9TU487553",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/b2e5d20ce2f0.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14104003.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14104003.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1419,13 +1652,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin Courtenay",
       "vin": "KM8JBCDE7TU490791",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/b0cb9576076a.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14279044.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14279044.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1434,13 +1670,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Preferredin Courtenay",
       "vin": "KM8JCCDE9TU496816",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/c5bdbbcf5e8e.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14364727.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson-id14364727.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1449,13 +1688,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Preferredin Courtenay",
-      "condition": "new"
+      "model": "Tucson",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Linein Courtenay",
       "vin": "KM8JCDD11TU434555",
       "stock": "NUMBER",
+      "trim": "N-Linein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/448e93add977.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13342655.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13342655.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,13 +1706,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Linein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimatein Courtenay",
       "vin": "KM8JCDD13TU440602",
       "stock": "NUMBER",
+      "trim": "Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/734ba7707e44.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13500399.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13500399.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1479,13 +1724,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimatein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimatein Courtenay",
       "vin": "KM8JCDD15TU482611",
       "stock": "NUMBER",
+      "trim": "Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/3c61aeef5292.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13889431.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13889431.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1494,13 +1742,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimatein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Night Editionin Courtenay",
       "vin": "KM8JBDD10TU489002",
       "stock": "NUMBER",
+      "trim": "Night Editionin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/585b53df8722.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13916651.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id13916651.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1509,13 +1760,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Editionin Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Night Editionin Courtenay",
       "vin": "KM8JBDD1XTU501530",
       "stock": "NUMBER",
+      "trim": "Night Editionin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/0594650659a6.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14005267.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14005267.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1524,13 +1778,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Night Editionin Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid N-Linein Courtenay",
       "vin": "KM8JCDD13TU484910",
       "stock": "NUMBER",
+      "trim": "N-Linein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/1bbba084fc42.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14177130.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14177130.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1539,14 +1796,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid N-Linein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimatein Courtenay",
       "vin": "KM8JCDD16TU533646",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/ab9304206d86.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14426351.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14426351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1555,14 +1815,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimatein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson Hybrid Ultimatein Courtenay",
       "vin": "KM8JCDD11TU533697",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Ultimatein Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/afd4842e064d.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14453709.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Tucson_Hybrid-id14453709.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1571,14 +1834,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Tucson Hybrid Ultimatein Courtenay",
-      "condition": "new"
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin Courtenay",
       "vin": "KMHRC8A30TU482564",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/45099fcc3aa8.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14128727.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14128727.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1587,13 +1853,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin Courtenay",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin Courtenay",
       "vin": "KMHRC8A36TU486974",
       "stock": "NUMBER",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/a60fa2516b47.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14272253.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14272253.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1602,13 +1871,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin Courtenay",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Essentialin Courtenay",
       "vin": "KMHRB8A34TU496129",
       "stock": "NUMBER",
+      "trim": "Essentialin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/85e7bd710ae0.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14327236.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14327236.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1889,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Essentialin Courtenay",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Venue Preferredin Courtenay",
       "vin": "KMHRC8A30TU499056",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/689e05329774.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14432094.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2026-Hyundai-Venue-id14432094.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1633,8 +1908,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Hyundai",
-      "model": "Venue Preferredin Courtenay",
-      "condition": "new"
+      "model": "Venue",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1649,7 +1926,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona ",
@@ -1664,7 +1943,9 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid ",
@@ -1680,12 +1961,15 @@
       "year": 2027,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Kona Essentialin Courtenay",
       "vin": "KM8HACAB3VU514535",
       "stock": "NUMBER",
+      "trim": "Essentialin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/971bf5c28242.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Kona-id14225302.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Kona-id14225302.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1694,14 +1978,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Essentialin Courtenay",
-      "condition": "new"
+      "model": "Kona",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
       "vin": "KM8P2DG15VU218333",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/48c92b2ac29f.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14319721.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14319721.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1710,14 +1997,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferredin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
       "vin": "KM8P2DG18VU219430",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/576c1ecaa4e8.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14385037.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14385037.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1726,14 +2016,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferredin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     },
     {
       "name": "2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
       "vin": "KM8P3DG19VU220981",
       "stock": "NUMBER",
       "color": "EARTHY BRASS",
+      "trim": "Preferredin Courtenay",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/842ad4aef0fa.html",
       "source_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14438033.html",
       "dealer_url": "https://www.comoxvalleyhyundai.com/new/inventory/2027-Hyundai-Santa_Fe_Hybrid-id14438033.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1742,8 +2035,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid Preferredin Courtenay",
-      "condition": "new"
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "city": "Courtenay",
+      "province": "BC"
     }
   ]
 }
