@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-11-17T07:17:12",
-  "vehicle_count": 102,
+  "generated_at": "2026-11-17T07:34:53",
+  "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -726,28 +726,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Kona N Linein Courtenay",
-      "vin": "KM8HACA38TU439935",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/272493642341.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 39549.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Kona N Linein Courtenay",
-      "vin": "KM8HACA32TU447867",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/2374186be37b.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Kona",
-      "condition": "new",
-      "price": 39299.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Palisade Ultimate Calligraphyin Courtenay",
       "vin": "KM8RMES21TU135066",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/aa980efee8ba.html",
@@ -755,7 +733,7 @@
       "make": "Hyundai",
       "model": "Palisade",
       "condition": "new",
-      "price": 65049.0,
+      "price": 61995.0,
       "price_currency": "CAD"
     },
     {
@@ -766,7 +744,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 55995.0,
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -788,7 +766,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 55999.0,
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
@@ -799,7 +777,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 40949.0,
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -810,7 +788,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 41199.0,
+      "price": 39495.0,
       "price_currency": "CAD"
     },
     {
@@ -821,7 +799,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "new",
-      "price": 37999.0,
+      "price": 35995.0,
       "price_currency": "CAD"
     },
     {
@@ -902,17 +880,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Tucson Hybrid Night Editionin Courtenay",
-      "vin": "KM8JBDD1XTU501530",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/0594650659a6.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 45199.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Tucson Hybrid N-Linein Courtenay",
       "vin": "KM8JCDD13TU484910",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/1bbba084fc42.html",
@@ -946,6 +913,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Hyundai Tucson Hybrid Night Editionin Courtenay",
+      "vin": "KM8JBDD10TU500922",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/ea1c82c1158a.html",
+      "year": 2026,
+      "make": "Hyundai",
+      "model": "Tucson Hybrid",
+      "condition": "new",
+      "price": 45199.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Hyundai Venue Preferredin Courtenay",
       "vin": "KMHRC8A30TU482564",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/45099fcc3aa8.html",
@@ -953,24 +931,24 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "new",
-      "price": 26599.0,
+      "price": 25495.0,
       "price_currency": "CAD"
     },
     {
       "name": "New 2026 Hyundai Venue Preferredin Courtenay",
-      "vin": "KMHRC8A36TU486974",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/a60fa2516b47.html",
+      "vin": "KMHRC8A38TU495689",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/20ac24b73dd2.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
       "condition": "new",
-      "price": 26849.0,
+      "price": 27199.0,
       "price_currency": "CAD"
     },
     {
       "name": "New 2026 Hyundai Venue Preferredin Courtenay",
-      "vin": "KMHRC8A30TU499056",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/689e05329774.html",
+      "vin": "KMHRC8A33TU499083",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/f3686126d7ee.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Venue",
@@ -990,14 +968,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Kona Electric Preferredin Courtenay",
-      "vin": "KM8HC3A6XVU048891",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/23b0d7447e5d.html",
+      "name": "New 2027 Hyundai Kona Preferredin Courtenay",
+      "vin": "KM8HBCAB4VU537321",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/685d7311220a.html",
       "year": 2027,
       "make": "Hyundai",
-      "model": "Kona Electric",
+      "model": "Kona",
       "condition": "new",
-      "price": 46649.0,
+      "price": 34599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Preferredin Courtenay",
+      "vin": "KM8HCCAB3VU538134",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/f1c07c40d364.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 37049.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona N Line Ultimatein Courtenay",
+      "vin": "KM8HECA39VU533796",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/c219e982cb64.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "new",
+      "price": 40995.0,
       "price_currency": "CAD"
     },
     {
@@ -1012,6 +1012,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Hyundai Kona Electric Preferredin Courtenay",
+      "vin": "KM8HC3A64VU049101",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/62e3d2971153.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 44799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Kona Electric Preferredin Courtenay",
+      "vin": "KM8HD3A67VU049347",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/7a8a2c26c5cd.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "condition": "new",
+      "price": 47399.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Palisade Hybrid Ultimate Calligraphyin Courtenay",
+      "vin": "KM8RMESA2VU147656",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/0ac0ffb2733e.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Palisade Hybrid",
+      "condition": "new",
+      "price": 69995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
       "vin": "KM8P2DG15VU218333",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/48c92b2ac29f.html",
@@ -1019,7 +1052,7 @@
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "new",
-      "price": 48349.0,
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
@@ -1034,17 +1067,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
-      "vin": "KM8P3DG19VU220891",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/4466cdeffeb8.html",
-      "year": 2027,
-      "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
-      "condition": "new",
-      "price": 53599.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2027 Hyundai Santa Fe Hybrid Ultimate Calligraphyin Courtenay",
       "vin": "KM8P5DG15VU224916",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/aa6828d47287.html",
@@ -1053,6 +1075,17 @@
       "model": "Santa Fe Hybrid",
       "condition": "new",
       "price": 60099.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Hyundai Santa Fe Hybrid Preferredin Courtenay",
+      "vin": "KM8P3DG13VU225942",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/03393374d3bc.html",
+      "year": 2027,
+      "make": "Hyundai",
+      "model": "Santa Fe Hybrid",
+      "condition": "new",
+      "price": 52349.0,
       "price_currency": "CAD"
     }
   ]

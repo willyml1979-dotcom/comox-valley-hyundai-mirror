@@ -1,6 +1,6 @@
 # Comox Valley Hyundai
 
- dealership in Courtenay. AI-readable inventory mirror, about 102 vehicles.
+ dealership in Courtenay. AI-readable inventory mirror, about 105 vehicles.
 
 - Official website: https://www.comoxvalleyhyundai.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/
