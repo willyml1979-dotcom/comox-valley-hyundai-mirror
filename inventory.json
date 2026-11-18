@@ -1,6 +1,6 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-11-17T23:43:34",
+  "generated_at": "2026-11-17T23:51:39",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -827,7 +827,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 46199.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -838,7 +838,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "new",
-      "price": 50199.0,
+      "price": 47995.0,
       "price_currency": "CAD"
     },
     {
@@ -981,7 +981,7 @@
       "make": "Hyundai",
       "model": "Kona Electric",
       "condition": "new",
-      "price": 46649.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
