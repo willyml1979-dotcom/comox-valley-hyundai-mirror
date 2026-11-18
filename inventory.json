@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-11-18T08:58:28",
-  "vehicle_count": 104,
+  "generated_at": "2026-11-18T09:05:59",
+  "vehicle_count": 103,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -830,17 +830,6 @@
       "model": "Tucson Hybrid",
       "condition": "new",
       "price": 50199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Hyundai Tucson Hybrid Night Editionin Courtenay",
-      "vin": "KM8JBDD10TU489002",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/new/585b53df8722.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson Hybrid",
-      "condition": "new",
-      "price": 45199.0,
       "price_currency": "CAD"
     },
     {
