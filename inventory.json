@@ -1,10 +1,18 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-11-17T07:34:53",
+  "generated_at": "2026-11-17T23:43:34",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Toyota Camry 2004 for salein Courtenay",
+      "vin": "4T1CA30P54U002930",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/496b80624c30.html",
+      "condition": "used",
+      "price": 8499.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Acura MDX 2007 for salein Courtenay",
       "vin": "2HNYD285X7H000199",
@@ -27,6 +35,14 @@
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5ddb1101d9ea.html",
       "condition": "used",
       "price": 12899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Golf Wagon 2012 for salein Courtenay",
+      "vin": "3VWML7AJ0CM677640",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/41fecc0deacf.html",
+      "condition": "used",
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -182,11 +198,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Audi Q3 2025 for salein Courtenay",
+      "vin": "WA1AUCF36S1075823",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5a2d2e0a4931.html",
+      "condition": "used",
+      "price": 32897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "BMW X1 2025 for salein Courtenay",
       "vin": "WBX73EF01S5343564",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/ee0e4a13bec1.html",
       "condition": "used",
       "price": 37897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Escape 2025 for salein Courtenay",
+      "vin": "1FMCU9JA8SUA60662",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/46cd11b70be3.html",
+      "condition": "used",
+      "price": 27897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2025 for salein Courtenay",
+      "vin": "1FTFW3L84SKE49572",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/1794aa49d9aa.html",
+      "condition": "used",
+      "price": 46897.0,
       "price_currency": "CAD"
     },
     {
@@ -198,6 +238,38 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Nissan Kicks Play 2025 for salein Courtenay",
+      "vin": "3N1CP5CV0SL491188",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/943a0b97bffa.html",
+      "condition": "used",
+      "price": 20897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2025 for salein Courtenay",
+      "vin": "2T3B1RFV3SC511490",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/d4c08e93755e.html",
+      "condition": "used",
+      "price": 32897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Courtenay",
+      "vin": "3VVUC7B26SM045445",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/aea4bb87a42e.html",
+      "condition": "used",
+      "price": 25897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Tiguan 2026 for salein Courtenay",
+      "vin": "3VVER7RM1TM016429",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5e485ec88cee.html",
+      "condition": "used",
+      "price": 33897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2004 Toyota Camry SLEin Courtenay",
       "vin": "4T1CA30P54U002930",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/714b9f8d86e9.html",
@@ -205,18 +277,7 @@
       "make": "Toyota",
       "model": "Camry",
       "condition": "used",
-      "price": 8999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2004 Toyota Camry ",
-      "vin": "4T1CA30P54U002930",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/496b80624c30.html",
-      "year": 2004,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "used",
-      "price": 8999.0,
+      "price": 8499.0,
       "price_currency": "CAD"
     },
     {
@@ -238,7 +299,7 @@
       "make": "Hyundai",
       "model": "Santa Fe",
       "condition": "used",
-      "price": 5897.0,
+      "price": 4897.0,
       "price_currency": "CAD"
     },
     {
@@ -286,17 +347,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2012 Volkswagen Golf Wagon ",
-      "vin": "3VWML7AJ0CM677640",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/41fecc0deacf.html",
-      "year": 2012,
-      "make": "Volkswagen",
-      "model": "Golf Wagon",
-      "condition": "used",
-      "price": 12899.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2013 Hyundai Elantra GT GLSin Courtenay",
       "vin": "KMHD35LE2DU042676",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/6a5729053a7b.html",
@@ -337,7 +387,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 21999.0,
+      "price": 20699.0,
       "price_currency": "CAD"
     },
     {
@@ -590,18 +640,7 @@
       "make": "Audi",
       "model": "Q3",
       "condition": "used",
-      "price": 33897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 ",
-      "vin": "WA1AUCF36S1075823",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5a2d2e0a4931.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 33897.0,
+      "price": 32897.0,
       "price_currency": "CAD"
     },
     {
@@ -623,29 +662,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 28897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Escape ",
-      "vin": "1FMCU9JA8SUA60662",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/46cd11b70be3.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 28897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW3L84SKE49572",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/1794aa49d9aa.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 48697.0,
+      "price": 27897.0,
       "price_currency": "CAD"
     },
     {
@@ -678,46 +695,13 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 21897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV0SL491188",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/943a0b97bffa.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 21897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota RAV4 ",
-      "vin": "2T3B1RFV3SC511490",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/d4c08e93755e.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 33897.0,
+      "price": 20897.0,
       "price_currency": "CAD"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Courtenay",
       "vin": "3VVUC7B26SM045445",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/330608e6b81b.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "used",
-      "price": 26897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B26SM045445",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/aea4bb87a42e.html",
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
@@ -954,17 +938,6 @@
       "model": "Venue",
       "condition": "new",
       "price": 26749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVER7RM1TM016429",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/5e485ec88cee.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 35897.0,
       "price_currency": "CAD"
     },
     {
