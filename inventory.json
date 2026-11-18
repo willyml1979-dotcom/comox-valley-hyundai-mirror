@@ -1,7 +1,7 @@
 {
   "dealership": "Comox Valley Hyundai",
-  "generated_at": "2026-11-17T23:51:39",
-  "vehicle_count": 105,
+  "generated_at": "2026-11-18T08:58:28",
+  "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -22,11 +22,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford F-150 2011 for salein Courtenay",
-      "vin": "1FTMF1CM1BKD05292",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/664650cc1819.html",
+      "name": "Hyundai Santa Fe 2007 for salein Courtenay",
+      "vin": "5NMSG13E07H018610",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/02acf954eee6.html",
       "condition": "used",
-      "price": 11799.0,
+      "price": 4897.0,
       "price_currency": "CAD"
     },
     {
@@ -70,11 +70,35 @@
       "price_currency": "CAD"
     },
     {
+      "name": "GMC Sierra 1500 2015 for salein Courtenay",
+      "vin": "3GTU2UEC2FG245473",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a0599262e6f4.html",
+      "condition": "used",
+      "price": 20699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lincoln MKC 2015 for salein Courtenay",
+      "vin": "5LMTJ2AH7FUJ31219",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/8d5bbb797226.html",
+      "condition": "used",
+      "price": 11897.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Toyota Camry Hybrid 2015 for salein Courtenay",
       "vin": "4T1BD1FK8FU168171",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/e3d501be4bfc.html",
       "condition": "used",
       "price": 16897.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Equinox 2017 for salein Courtenay",
+      "vin": "2GNFLEEK7H6338496",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/9a726136bd11.html",
+      "condition": "used",
+      "price": 10897.0,
       "price_currency": "CAD"
     },
     {
@@ -303,28 +327,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2007 Hyundai Santa Fe ",
-      "vin": "5NMSG13E07H018610",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/02acf954eee6.html",
-      "year": 2007,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 5897.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2011 Ford F-150 XLin Courtenay",
-      "vin": "1FTMF1CM1BKD05292",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/77d27b354eea.html",
-      "year": 2011,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 11799.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2012 Nissan Frontier Sin Courtenay",
       "vin": "1N6BD0CT9CC473026",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a3cf250a5e56.html",
@@ -391,17 +393,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 GMC Sierra 1500 ",
-      "vin": "3GTU2UEC2FG245473",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/a0599262e6f4.html",
-      "year": 2015,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 21999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Lincoln MKC Basein Courtenay",
       "vin": "5LMTJ2AH7FUJ31219",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/66b82a41d19d.html",
@@ -409,18 +400,7 @@
       "make": "Lincoln",
       "model": "MKC Basein Courtenay",
       "condition": "used",
-      "price": 12797.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Lincoln MKC ",
-      "vin": "5LMTJ2AH7FUJ31219",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/8d5bbb797226.html",
-      "year": 2015,
-      "make": "Lincoln",
-      "model": "MKC",
-      "condition": "used",
-      "price": 12797.0,
+      "price": 11897.0,
       "price_currency": "CAD"
     },
     {
@@ -442,18 +422,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 11497.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Chevrolet Equinox ",
-      "vin": "2GNFLEEK7H6338496",
-      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/9a726136bd11.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "condition": "used",
-      "price": 11497.0,
+      "price": 10897.0,
       "price_currency": "CAD"
     },
     {
@@ -464,7 +433,7 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 13899.0,
+      "price": 11899.0,
       "price_currency": "CAD"
     },
     {
@@ -633,6 +602,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Toyota Corolla Cross LEin Courtenay",
+      "vin": "7MUBAABGXRV095592",
+      "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/0e1d7b408e9c.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "used",
+      "price": 29899.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Audi Q3 Basein Courtenay",
       "vin": "WA1AUCF36S1075823",
       "url": "https://willyml1979-dotcom.github.io/comox-valley-hyundai-mirror/used/fe793261a7df.html",
@@ -706,7 +686,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 26897.0,
+      "price": 25897.0,
       "price_currency": "CAD"
     },
     {
